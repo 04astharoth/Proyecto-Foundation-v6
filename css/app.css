@@ -1,0 +1,8 @@
+body {
+  background: url(../img/fondo.jpg) !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  min-height: 1000px !important;
+  background-attachment: scroll !important;
+  background-attachment: fixed !important;
+}
