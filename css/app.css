@@ -3,6 +3,25 @@ body {
   background-repeat: no-repeat !important;
   background-position: center !important;
   min-height: 1000px !important;
-  background-attachment: scroll !important;
   background-attachment: fixed !important;
 }
+.cuerpo{
+  padding-top: 15px !important;
+}
+.color-body{
+  background-color: rgba(168, 14, 35, 0.8);
+}
+
+.color-titlo{
+  color: #ffffff !important;
+}
+.color-eslogan{
+  color: #e2e2e2 !important;
+}
+.border-cabecera{
+  border-right: 2px solid rgb(233, 80, 101);
+}
+hr{
+  border: 1px solid rgb(233, 80, 101) !important;
+}
+
