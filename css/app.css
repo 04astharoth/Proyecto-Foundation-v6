@@ -8,6 +8,13 @@ body {
 .cuerpo{
   padding-top: 15px !important;
 }
+.sidebar{
+  background-color: #f7f7f7;
+  padding: 15px !important;
+}
+.entradas{
+  background-color: #f7f7f7;
+}
 .color-body{
   background-color: rgba(168, 14, 35, 0.8);
 }
@@ -24,4 +31,5 @@ body {
 hr{
   border: 1px solid rgb(233, 80, 101) !important;
 }
+
 
