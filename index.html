@@ -12,7 +12,8 @@
 
 <body>
   <div class="grid-container color-body">
-    <div class="grid-container fluid cuerpo">
+    <!-- Titulo -->
+    <div class="grid-container full cuerpo">
       <div class="grid-x grid-padding-x ">
         <div class="cell large-5 border-cabecera">
           <h2 class="color-titlo">El sabor de la vida</h2>
@@ -20,12 +21,42 @@
         </div>
         <div class="cell large-7"></div>
       </div>
-
       <div class="grid-x">
         <div class="cell">
           <hr>
         </div>
       </div>
+      <div class="grid-x grid-margin-y grid-margin-x">
+        <div class="cell large-5 sidebar ">
+            <button type="submit" name="enviar" class="button"><i
+              class="step fi-magnifying-glass"></i></button>
+          <ul class="accordion" data-accordion data-multi-expand="true" data-allow-all-closed="true">
+            <li class="accordion-item is-active" data-accordion-item>
+              <a href="#" class="accordion-title">Inicio</a>
+              <div class="accordion-content" data-tab-content>
+                <p>Panel 1. Lorem ipsum dolor</p>
+                <a href="#">Nowhere to Go</a>
+              </div>
+            </li>
+            <li class="accordion-item" data-accordion-item>
+              <a href="#" class="accordion-title">Mis platos preferidos</a>
+              <div class="accordion-content" data-tab-content>
+                <textarea></textarea>
+                <button class="button">I do nothing!</button>
+              </div>
+            </li>
+            <li class="accordion-item" data-accordion-item>
+              <a href="#" class="accordion-title">Mis Recetas</a>
+              <div class="accordion-content" data-tab-content>
+                Type your name!
+                <input type="text"></input>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="cell large-7 entradas">ojito</div>
+      </div>
+
     </div>
   </div>
 
