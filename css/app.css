@@ -45,9 +45,10 @@ body {
   border-right: 2px solid rgb(233, 80, 101);
 }
 
-hr {
+.divisor-encabezado {
   border: 1px solid rgb(233, 80, 101) !important;
 }
+
 
 .button {
   background-color: #a80e23 !important;
