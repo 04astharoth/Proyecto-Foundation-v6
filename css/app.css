@@ -39,4 +39,6 @@ hr{
 .accordion-content p{
   margin-bottom: 0px;
 }
-
+.no-bullet {
+  padding-left: 10px !important;
+}
