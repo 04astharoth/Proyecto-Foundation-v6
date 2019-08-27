@@ -23,7 +23,7 @@ body {
 .color-titlo{
   color: #ffffff !important;
 }
-.color-subtitlo{
+.color-subtitlo, a{
   color: #a80e23 !important;
 }
 .color-eslogan{
