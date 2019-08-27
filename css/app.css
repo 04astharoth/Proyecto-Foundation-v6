@@ -5,42 +5,58 @@ body {
   min-height: 1000px !important;
   background-attachment: fixed !important;
 }
-.cuerpo{
+
+.cuerpo {
   padding-top: 15px !important;
 }
-.sidebar{
+
+.sidebar {
   background-color: #f7f7f7;
   padding: 15px !important;
   border-radius: 3px;
 }
-.entradas{
-  background-color: #f7f7f7;
+
+.conenido {
+  padding-right: 15px !important;
+}
+
+.entrada {
+  background-color: #e0dfdf;
   border-radius: 3px;
 }
-.color-body{
+
+.color-body {
   background-color: rgba(168, 14, 35, 0.8);
 }
-.color-titlo{
+
+.color-titlo {
   color: #ffffff !important;
 }
-.color-subtitlo, a{
+
+.color-subtitlo, a, .entrada p:nth-of-type(1) {
   color: #a80e23 !important;
 }
-.color-eslogan{
+
+.color-eslogan {
   color: #e2e2e2 !important;
 }
-.border-cabecera{
+
+.border-cabecera {
   border-right: 2px solid rgb(233, 80, 101);
 }
-hr{
+
+hr {
   border: 1px solid rgb(233, 80, 101) !important;
 }
-.button{
-  background-color:#a80e23  !important;
+
+.button {
+  background-color: #a80e23 !important;
 }
-.accordion-content p{
+
+.accordion-content p {
   margin-bottom: 0px;
 }
+
 .no-bullet {
   padding-left: 10px !important;
 }
