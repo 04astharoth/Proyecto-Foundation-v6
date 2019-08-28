@@ -24,6 +24,10 @@ body {
   margin-bottom: 16px;
 }
 
+.entrada ul{
+  list-style: url(../img/list.svg) square !important;
+}
+
 .comentario {
   border-radius: 3px;
   border: 1px solid #8a8787;
@@ -34,6 +38,7 @@ body {
 .comentario .cell img{
   width: 70%;
 }
+
 .color-body {
   background-color: rgba(168, 14, 35, 0.8);
 }
