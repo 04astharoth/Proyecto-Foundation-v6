@@ -31,6 +31,9 @@ body {
   padding: 15px;
 }
 
+.comentario .cell img{
+  width: 70%;
+}
 .color-body {
   background-color: rgba(168, 14, 35, 0.8);
 }
